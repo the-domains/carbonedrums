@@ -1,6 +1,6 @@
 name: Carbonedrums
 favicon: null
-layout_spectrum: 0.9803623806219548
+layout_spectrum: 0.88878
 typography_spectrum: 0.10722930170595646
 title: Carbonedrums
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.5096186154987663
-  lightness: 0.3525625311303884
-  saturation: 0.6946107931435108
-  rhythmicContrast: 0.9260354943107814
+    - '#0a0519'
+    - '#892c47'
+    - '#ffe6ff'
+    - '#be8676'
+    - '#b6b0e7'
+  brandStrength: 0.5
+  lightness: 0.1875
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
